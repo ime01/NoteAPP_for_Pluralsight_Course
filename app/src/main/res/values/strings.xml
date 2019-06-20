@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NoteAPP 4 Pluralsight</string>
+    <string-array name="List_of_courses">
+        <item>Android</item>
+
+        <item>Java</item>
+
+        <item>spark AR</item>
+
+        <item>AI</item>
+
+        <item>machine_learning</item>
+
+    </string-array>
+
+    <string name="enter_text">Enter your text here</string>
+    <string name="title_activity_note">EDIT NOTE</string>
+    <string name="send_as_email">send_as_email</string>
+    <string name="cancel">cancel</string>
+</resources>
